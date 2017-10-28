@@ -1,4 +1,4 @@
-#Pong Game
+# Pong Game
 
 Basic Pong Game developed with Pygame.
 
@@ -6,8 +6,8 @@ Basic Pong Game developed with Pygame.
 
 
 ### Requirements:
-    - Pygame: ```$ apt-get install python-pygame ```  
-    or with pip: ``` pip install pygame```
+- Pygame: ```$ apt-get install python-pygame ```  
+or with pip: ``` $ pip install pygame```
 
 ### Run the game:
-    ``` $ python main.py ```
+``` $ python main.py ```
